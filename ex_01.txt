@@ -2,9 +2,10 @@
 <html lang="pt-br">
      <head>
              <meta charset="UTF-8"
-             <title>Versionamento</title>	
+             <title>Versionamento de software</title>	
      </head>
      <body>
-             <h1>Git</h1>
+             <h1>Git e GitHub</h1>	
+             <p>versão 1.0</p>	
      </body>
 </html>
